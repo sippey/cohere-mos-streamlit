@@ -1,5 +1,4 @@
 import streamlit as st
-import os
 import cohere
 
 st.title("Masters of Scale")
